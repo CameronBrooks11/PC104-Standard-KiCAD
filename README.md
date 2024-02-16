@@ -6,12 +6,12 @@ The footprints have also a suggested PCB boundary that facilitates the cable man
 
 Derived from, although not affiliated with, [pc104.org](https://pc104.org/)
 
+# TODO #
+PC/104 Express, Plus, etc.
+
 # KiCAD #
 
 The KiCAD's schematic includes all the necessary pins assignments to speedup the payload design. The footprint already has the edge cuts done and it follows the PC104 specification.
 
 ![](img/KiCAD_schematic.png)
 ![](img/KiCAD_3D_view.png)
-
-# TODO #
-PC/104 Express, Plus, etc.
