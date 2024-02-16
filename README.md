@@ -1,4 +1,4 @@
-# PC104-Standard-KiCAD #
+# PC104-Standard-KiCad #
 
 This repository contains schematics and footprints of the PC/104 standard. 
 These designs are compatible with KiCad PCB design software.
@@ -12,3 +12,6 @@ The KiCAD's schematic includes all the necessary pins assignments to speedup the
 
 ![](img/KiCAD_schematic.png)
 ![](img/KiCAD_3D_view.png)
+
+# TODO #
+PC/104 Express, Plus, etc.
