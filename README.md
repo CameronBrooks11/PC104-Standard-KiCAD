@@ -1,4 +1,4 @@
-# Payload-PC104 #
+# PC104-Standard-KiCAD #
 
 This repository contains schematics and footprints of the PC/104 standard. 
 These designs are compatible with KiCad PCB design software.
